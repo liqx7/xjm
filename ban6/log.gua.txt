@@ -1,0 +1,37 @@
+16:22:32 start at :3000
+16:23:31 path,  D:\learn\xjm\ban6/templates/
+16:23:31 <!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>jinja demo 1</title>
+</head>
+<body>
+    <!-- 变量替换 -->
+    <h1>gua</h1>
+
+    <!-- 循环 -->
+    
+        <span class="number">0</span>
+    
+        <span class="number">1</span>
+    
+        <span class="number">2</span>
+    
+
+    <!-- 循环加对象/字典访问 -->
+    <div class="user-container">
+    
+        <div class="user-cell">
+            <span>gua</span>
+            <span>1</span>
+        </div>
+    
+        <div class="user-cell">
+            <span>瓜</span>
+            <span>2</span>
+        </div>
+    
+    </div>
+</body>
+</html>
